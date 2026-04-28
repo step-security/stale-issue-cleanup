@@ -1,0 +1,1 @@
+# stale-issue-cleanup
