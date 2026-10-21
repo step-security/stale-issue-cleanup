@@ -25,21 +25,21 @@
   },
   "homepage": "https://github.com/step-security/stale-issue-cleanup/#readme",
   "dependencies": {
-    "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.1",
-    "axios": "^1.18.0",
+    "@actions/core": "^2.0.3",
+    "@actions/github": "^8.0.1",
+    "axios": "^1.20.0",
     "dateformat": "^4.4.1"
   },
   "devDependencies": {
     "@biomejs/biome": "2.1.2",
     "@fetch-mock/vitest": "^0.2.14",
-    "@octokit/plugin-rest-endpoint-methods": "^13.3.0",
+    "@octokit/plugin-rest-endpoint-methods": "^17.0.0",
+    "@octokit/types": "^18.0.0",
     "@types/dateformat": "^5.0.3",
     "@types/node": "^24.1.0",
-    "@vercel/ncc": "^0.38.3",
-    "@vitest/coverage-v8": "^3.0.0",
-    "dotenv": "^17.2.1",
+    "@vercel/ncc": "^0.45.0",
+    "@vitest/coverage-v8": "^4.1.11",
     "typescript": "^5.8.3",
-    "vitest": "^3.0.0"
+    "vitest": "^4.1.11"
   }
 }
